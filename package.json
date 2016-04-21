@@ -1,0 +1,16 @@
+{
+  "name": "symbols-to-png",
+  "version": "1.0.0",
+  "description": "Create SVGs/PNGs out of SVG Symbols",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel Moravec",
+  "license": "ISC",
+  "dependencies": {
+    "svg2png": "^3.0.0",
+    "xmldoc": "^0.4.0"
+  }
+}
